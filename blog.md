@@ -1,8 +1,6 @@
 ---
 layout: blog
 title: Blog
-description: Here be writings
+description: Short entries on malware analysis.
 permalink: /blog
 ---
-
-Here be writings. Mostly mundane, sometimes fanciful.
