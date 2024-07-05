@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Encryption intro"
-date:   2024-07-05 21:21:21 +1000
+date:   2024-07-05 01:21:21 +1000
 tags: [encryption]
 ---
 
