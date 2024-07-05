@@ -1,7 +1,7 @@
 ###########
 # site.title
 
-title: Minimal fuss - Maximum Malware
+title: Maximum Malware -/- Minimal fuss
 description: Journal of lessons learned in malware analysis
 #baseurl: "/" # the subpath of your site, e.g. /blog/
 url: "https://spookleys.github.io" # the base hostname & protocol for your site
